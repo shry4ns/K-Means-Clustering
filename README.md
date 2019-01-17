@@ -7,7 +7,8 @@ The matlab version is hand done. It is not completely optimized, and future vers
 The python version is implementation of the in-built algorithm in sckit-learn. 
 
 ## Dependencies (Python)
-sklearn 
+sklearn
+
 numpy
 
 ## How to use it:
