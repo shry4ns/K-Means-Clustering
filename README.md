@@ -1,2 +1,2 @@
 # K-Means-Clustering
-Very rudimentary implmentations of k-means clustering
+Very rudimentary implementations of k-means clustering
